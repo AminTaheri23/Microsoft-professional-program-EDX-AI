@@ -1,2 +1,3 @@
-# Microsoft-profesional-programme-EDX-AI
- My notes for MPP Ai engineering in Edx
+# Microsoft professional program EDX AI
+ My notes for MPP Ai engineering in Edx.
+
